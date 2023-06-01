@@ -1,0 +1,18 @@
+# ninja log v5
+444	691	7073302458880195	elbit_home_assignment.exe	e2a72a2b01bf9a22
+7	189	7073278125940451	CMakeFiles/elbit_home_assignment.dir/question03.cpp.obj	cea3ec3b87ac9db5
+5	443	7073381126729707	build.ninja	120cd8ea0139331a
+8	186	7073203258726927	CMakeFiles/elbit_home_assignment.dir/question01.cpp.obj	815f8f35ba2a6c76
+6	443	7073302456367293	CMakeFiles/elbit_home_assignment.dir/question05.cpp.obj	d15a65f30dfe516f
+22	168	7073296438955437	CMakeFiles/elbit_home_assignment.dir/question04.cpp.obj	dbdf2582061baa07
+4	138	7073289154141234	CMakeFiles/elbit_home_assignment.dir/question02.cpp.obj	c121b8bff7bcb7e5
+144	1544	7073381362585483	CMakeFiles/elbit_home_assignment.dir/question02.cpp.obj	6b06793bc5399f7f
+11	1563	7073381363804497	CMakeFiles/elbit_home_assignment.dir/question01.cpp.obj	f8a6cf8b20efe2f
+208	1575	7073381362675449	CMakeFiles/elbit_home_assignment.dir/question03.cpp.obj	12b45ef0cd9d8040
+722	1614	7073381365508965	CMakeFiles/elbit_home_assignment.dir/question04.cpp.obj	c15d1bf98697e7a1
+825	1637	7073381365909107	CMakeFiles/elbit_home_assignment.dir/bonus.cpp.obj	90ac4d316be90d2c
+767	2346	7073381373348167	CMakeFiles/elbit_home_assignment.dir/question05.cpp.obj	7a5b1eada1a7c052
+2347	2757	7073381377411295	elbit_home_assignment.exe	868cf8c4bf87ad94
+8	527	7073381457080570	CMakeFiles/elbit_home_assignment.dir/question05.cpp.obj	7a5b1eada1a7c052
+32	2777	7073381481624271	CMakeFiles/elbit_home_assignment.dir/question04.cpp.obj	c15d1bf98697e7a1
+4	325	7073381613435889	elbit_home_assignment.exe	868cf8c4bf87ad94
